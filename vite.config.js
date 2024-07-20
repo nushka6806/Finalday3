@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react-swc'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/REPOSITORY_NAME/',
+  base: '/Finalday3/',
   plugins: [react()]
 })
